@@ -1,4 +1,4 @@
-
+# cmt 1
 
 def logit(func):
     def with_logging(*args, **kwargs):
